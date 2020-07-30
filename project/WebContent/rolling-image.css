@@ -1,0 +1,30 @@
+.navbar-brand{
+    padding: 6px 6px;
+}
+footer{
+    background-color: #333333;
+}
+.row{
+    margin-top: 30px;
+    margin-left: 110px;
+}
+.copyright{
+    color: white;
+    text-align: center;
+}
+footer a{
+    color: white;
+}
+.item-images{
+     margin: auto;
+     max-height: 640px; min-height: 640px;
+     padding-top: 15px;
+     padding-bottom: 15px;
+}
+#house{ margin-left: 20px;}
+#qq{ margin-top: 20px;}
+#phone{padding-top:20px; margin-left: 20px;}
+
+#carousel-example-generic{
+	padding: auto 0;
+}
